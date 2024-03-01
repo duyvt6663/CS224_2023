@@ -1,2 +1,3 @@
 # CS224_2023
-Stanford cs224 assignments attempt
+
+My attempt at Stanford CS 224n Assignments.
