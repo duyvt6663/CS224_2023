@@ -1,4 +1,4 @@
-# CS 224 Assignment #1: Word Vectors
+# CS 224n Assignment #1: Word Vectors
 
 Welcome to CS224N!
 
