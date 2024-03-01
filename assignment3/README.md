@@ -36,4 +36,4 @@ If you would like to instead create a new environment for this assignment, pleas
     conda deactivate
 
 ---
-[HW3_writeup](https://chain-scraper-d1e.notion.site/CS224_assignment-3-written-9d9cdf5f74db43ff91b7c361822b48f7?pvs=4)
+More details at [CS224_assignment 3 (written)](https://chain-scraper-d1e.notion.site/CS224_assignment-3-written-9d9cdf5f74db43ff91b7c361822b48f7?pvs=4)
